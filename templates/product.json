@@ -37,6 +37,12 @@
             "margin_bottom": 9
           }
         },
+        "custom_liquid_C33T8p": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<section id=\"product-info\" style=\"display: flex; justify-content: space-between; gap: 8px;\">\n\n  <!-- Card 1 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconvie.png?v=1765549829\"\n         alt=\"Month Calm Icon\"\n         style=\"width: 36px; height: 36px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      1 Month Calm\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      1 month preserved\n    </p>\n  </div>\n\n  <!-- Card 2 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconsachet.png?v=1765549830\"\n         alt=\"Format Icon\"\n         style=\"width: 32px; height: 32px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      Format\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      20 sachets, 1 per day\n    </p>\n  </div>\n\n  <!-- Card 3 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconhf.png?v=1765549831\"\n         alt=\"For Everyone Icon\"\n         style=\"width: 28px; height: 28px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      For Everyone\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      Women & Men\n    </p>\n  </div>\n\n</section>"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -44,7 +50,7 @@
             "price_color": "accent-1",
             "compare_price_color": "text",
             "displayed_badge": "sale",
-            "icon_scale": 140,
+            "icon_scale": 120,
             "custom_badge_text": "[icon_1] SPECIAL OFFER",
             "icon_1": "redeem",
             "filled_icon_1": false,
@@ -52,12 +58,6 @@
             "filled_icon_2": false,
             "margin_top": 9,
             "margin_bottom": 15
-          }
-        },
-        "custom_liquid_C33T8p": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<section id=\"product-info\" style=\"display: flex; justify-content: space-between; gap: 8px;\">\n\n  <!-- Card 1 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconvie.png?v=1765549829\"\n         alt=\"Month Calm Icon\"\n         style=\"width: 36px; height: 36px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      1 Month Calm\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      1 month preserved\n    </p>\n  </div>\n\n  <!-- Card 2 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconsachet.png?v=1765549830\"\n         alt=\"Format Icon\"\n         style=\"width: 32px; height: 32px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      Format\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      20 sachets, 1 per day\n    </p>\n  </div>\n\n  <!-- Card 3 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconhf.png?v=1765549831\"\n         alt=\"For Everyone Icon\"\n         style=\"width: 28px; height: 28px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      For Everyone\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      Women & Men\n    </p>\n  </div>\n\n</section>"
           }
         },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
@@ -314,8 +314,8 @@
       "block_order": [
         "title",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
-        "price",
         "custom_liquid_C33T8p",
+        "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
