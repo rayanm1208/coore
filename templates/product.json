@@ -25,12 +25,12 @@
         "a6eb81db-40e4-43e0-972f-32db010a4a56": {
           "type": "rating_stars",
           "settings": {
-            "rating": 4.4,
+            "rating": 4.7,
             "star_color": "#ffcc00",
             "bg_stars_style": "full",
             "bg_star_color": "#ececec",
-            "label": "(xxxx Reviews)",
-            "size": 16,
+            "label": "12 381 Verified Reviews",
+            "size": 12,
             "alignment": "flex-start",
             "scroll_id": "",
             "margin_top": 0,
@@ -52,6 +52,12 @@
             "filled_icon_2": false,
             "margin_top": 9,
             "margin_bottom": 15
+          }
+        },
+        "custom_liquid_C33T8p": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
           }
         },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
@@ -309,6 +315,7 @@
         "title",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
+        "custom_liquid_C33T8p",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
