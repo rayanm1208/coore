@@ -306,7 +306,7 @@
       "settings": {
         "display_id": false,
         "enable_sticky_info": true,
-        "display_variant_image_first": true,
+        "display_variant_image_first": false,
         "disable_prepend": false,
         "hide_variants": true,
         "variant_image_filtering": "option1",
