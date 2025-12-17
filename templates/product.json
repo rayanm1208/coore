@@ -309,7 +309,7 @@
         "display_variant_image_first": true,
         "disable_prepend": false,
         "hide_variants": true,
-        "variant_image_filtering": "option2",
+        "variant_image_filtering": "option3",
         "image_zoom": "none",
         "arrows_color_scheme": "inverse",
         "transparent_arrows": false,
