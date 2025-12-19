@@ -475,21 +475,10 @@
             "text": "<p><em>High cortisol doesn’t just affect your mood — it can disrupt sleep, focus, digestion, and how your body stores fat.<br/><br/></em>✔️ <strong>Helps manage occasional stress & feelings of overwhelm</strong>*<br/>✔️ <strong>Supports relaxation and restful sleep</strong>*<br/>✔️ <strong>Helps maintain healthy cortisol levels</strong>*<br/>✔️ <strong>Supports mood, focus & mental clarity</strong>*<br/>✔️ <strong>Made with clinically-studied ingredients</strong>*</p><p></p>",
             "text_style": "body"
           }
-        },
-        "image_k4myHd": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/82ead5be-7954-48b2-ab44-56fbb89433ae.png",
-            "width": 100,
-            "alignment": "center",
-            "mobile_alignment": "center",
-            "border_radius": 0
-          }
         }
       },
       "block_order": [
-        "text_tyqLxF",
-        "image_k4myHd"
+        "text_tyqLxF"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -612,6 +601,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/WHY_IT_WORKS_Targets_stress_at_the_source_Supports_healthy_cortisol_levels_Helps_calm_mind_body.svg",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -623,7 +613,43 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "mobile_full_media_width": false,
+        "mobile_full_media_width": true,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "image_with_text_UNMMtn": {
+      "type": "image-with-text",
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/coore_section_website.svg",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": true,
         "mobile_direction": "normal",
         "mobile_image_quanlity": "2",
         "mobile_content_alignment": "left",
@@ -637,7 +663,7 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#3ab4d9",
+        "custom_section_colors_background": "#FFFFFF",
         "custom_section_gradient_background": ""
       }
     },
@@ -665,6 +691,7 @@
     "image_with_text_eXTY9i",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
     "image_with_text_w3BMdy",
+    "image_with_text_UNMMtn",
     "b321ab88-2b59-4dba-bade-54885c874ca5"
   ]
 }
