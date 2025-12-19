@@ -60,7 +60,7 @@
         "payment_enable": true,
         "enabled_payment_types": "",
         "show_policy": false,
-        "branding_text": "Powered by <a href=\"https://shrinetheme.com/\" target=\"_blank\" title=\"Shrine theme\">Shrine</a>",
+        "branding_text": "Powered by <em><strong>Coore</strong></em>™",
         "margin_top": 0,
         "padding_top": 32,
         "padding_bottom": 20,
