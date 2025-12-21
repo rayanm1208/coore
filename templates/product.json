@@ -520,9 +520,9 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/Signs_Cortisol.svg",
+        "image": "shopify://shop_images/705c259f-deeb-4d8f-9c70-a5fc0aec3cd2.png",
         "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/Signs_Cortisol.svg",
+        "image_2": "shopify://shop_images/705c259f-deeb-4d8f-9c70-a5fc0aec3cd2.png",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -583,15 +583,15 @@
         "show_text_below": true
       }
     },
-    "image_banner_ygTEUQ": {
+    "image_banner_KbJ4jh": {
       "type": "image-banner",
-      "name": "HOW ENJOY",
+      "name": "WHEN",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/How_to_Enjoy.svg",
+        "image": "shopify://shop_images/When_to_drink_Coore.svg",
         "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/How_to_Enjoy.svg",
+        "image_2": "shopify://shop_images/When_to_drink_Coore.svg",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -606,15 +606,15 @@
         "show_text_below": true
       }
     },
-    "image_banner_KbJ4jh": {
+    "image_banner_ygTEUQ": {
       "type": "image-banner",
-      "name": "WHEN",
+      "name": "HOW ENJOY",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/When_to_drink_Coore.svg",
+        "image": "shopify://shop_images/How_to_Enjoy.svg",
         "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/When_to_drink_Coore.svg",
+        "image_2": "shopify://shop_images/How_to_Enjoy.svg",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
