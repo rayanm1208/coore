@@ -897,6 +897,46 @@
             "comment_2_text": ""
           }
         },
+        "column_R4WbwA": {
+          "type": "column",
+          "settings": {
+            "post_author": "Author name",
+            "post_author_verified": false,
+            "post_time": "2h ago",
+            "post_text": "<p>Shrine theme has made a huge impact on my store's CVR!</p>",
+            "post_reactions": "like, love, care",
+            "post_reactions_text": "1.1k",
+            "post_comments_text": "26 Comments",
+            "comment_1_author": "Comment author",
+            "comment_1_author_verified": false,
+            "comment_1_time": "2h ago",
+            "comment_1_text": "",
+            "comment_2_author": "Comment author",
+            "comment_2_author_verified": false,
+            "comment_2_time": "3h ago",
+            "comment_2_text": ""
+          }
+        },
+        "column_RXefY4": {
+          "type": "column",
+          "settings": {
+            "post_author": "Author name",
+            "post_author_verified": false,
+            "post_time": "2h ago",
+            "post_text": "<p>Shrine theme has made a huge impact on my store's CVR!</p>",
+            "post_reactions": "like, love, care",
+            "post_reactions_text": "1.1k",
+            "post_comments_text": "26 Comments",
+            "comment_1_author": "Comment author",
+            "comment_1_author_verified": false,
+            "comment_1_time": "2h ago",
+            "comment_1_text": "",
+            "comment_2_author": "Comment author",
+            "comment_2_author_verified": false,
+            "comment_2_time": "3h ago",
+            "comment_2_text": ""
+          }
+        },
         "column_Tnj4Ce": {
           "type": "column",
           "settings": {
@@ -940,6 +980,8 @@
       },
       "block_order": [
         "column_E6yE8b",
+        "column_R4WbwA",
+        "column_RXefY4",
         "column_Tnj4Ce",
         "column_RrE8nY"
       ],
@@ -952,8 +994,8 @@
         "heading_size": "h1",
         "text": "",
         "color_scheme": "custom",
-        "type": "slide",
-        "autoplay": false,
+        "type": "loop",
+        "autoplay": true,
         "autoplay_speed": 5,
         "arrows_color_scheme": "inverse",
         "transparent_arrows": true,
@@ -969,10 +1011,10 @@
         "desktop_dots_position": "under",
         "desktop_arrows_position": "sides",
         "slider_mobile": true,
-        "enable_mobile_preview": false,
-        "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
+        "enable_mobile_preview": true,
+        "mobile_adaptive_height": true,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
         "post_bg_color": "#ffffff",
         "post_text_color": "#101010",
         "comments_bg_color": "#F0F2F5",
