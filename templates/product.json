@@ -668,11 +668,47 @@
             "desc_color_scheme": "background-2"
           }
         },
+        "video_slide_kR9UdC": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/coore ugc 9.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
         "image_slide_n8jY6Y": {
           "type": "image_slide",
           "settings": {
             "image": "shopify://shop_images/videoframe_2022.png",
             "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_HxBFEt": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/ coore ugc 8.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -761,18 +797,39 @@
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
+        },
+        "video_slide_B3DCxA": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/ coore ugc 7.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
         }
       },
       "block_order": [
         "video_slide_w63jMf",
         "video_slide_KW8wcx",
+        "video_slide_kR9UdC",
         "image_slide_n8jY6Y",
+        "video_slide_HxBFEt",
         "image_slide_dDEECe",
         "video_slide_98QDKL",
         "video_slide_AqykcN",
         "image_slide_VNHHQm",
         "video_slide_PXMmx7",
-        "image_slide_mwhCqD"
+        "image_slide_mwhCqD",
+        "video_slide_B3DCxA"
       ],
       "name": "Image/Video Slider",
       "settings": {
