@@ -18,7 +18,7 @@
             "text_size": "h1",
             "title_alignment": "left",
             "uppercase_title": false,
-            "margin_top": 0,
+            "margin_top": 24,
             "margin_bottom": 0
           }
         },
@@ -342,7 +342,7 @@
         "mobile_slides_inner_width": 100,
         "trust_badge_position": "top-right",
         "trust_badge_size": "medium",
-        "mobile_padding_top": 28,
+        "mobile_padding_top": 0,
         "mobile_padding_bottom": 24,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36
