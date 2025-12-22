@@ -1031,6 +1031,18 @@
         "custom_gradient_background": "",
         "custom_colors_text": "#49b8dc"
       }
+    },
+    "custom_liquid_xnEdFc": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -1045,6 +1057,7 @@
     "image_banner_KbJ4jh",
     "image_banner_ygTEUQ",
     "image_slider_76rVE6",
-    "facebook_testimonials_483Djn"
+    "facebook_testimonials_483Djn",
+    "custom_liquid_xnEdFc"
   ]
 }
