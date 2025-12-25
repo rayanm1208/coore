@@ -369,6 +369,251 @@
         "padding_bottom": 24
       }
     },
+    "image_slider_76rVE6": {
+      "type": "image-slider",
+      "blocks": {
+        "video_slide_w63jMf": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/coore video ugc 1 .mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_KW8wcx": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/coore ugc 4.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_kR9UdC": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/coore ugc 9.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_n8jY6Y": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/videoframe_2022.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_HxBFEt": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/ coore ugc 8.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_dDEECe": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/videoframe_4733.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_98QDKL": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/coore ugc 2.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_AqykcN": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/coore ugc 5.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_VNHHQm": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/videoframe_17828.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_PXMmx7": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/coore ugc 6.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_mwhCqD": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/222f0481-833b-4ee9-8649-51a960ee7174.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_B3DCxA": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/ coore ugc 7.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "video_slide_w63jMf",
+        "video_slide_KW8wcx",
+        "video_slide_kR9UdC",
+        "image_slide_n8jY6Y",
+        "video_slide_HxBFEt",
+        "image_slide_dDEECe",
+        "video_slide_98QDKL",
+        "video_slide_AqykcN",
+        "image_slide_VNHHQm",
+        "video_slide_PXMmx7",
+        "image_slide_mwhCqD",
+        "video_slide_B3DCxA"
+      ],
+      "name": "Image/Video Slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#1b2457",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "type": "slide",
+        "drag": "enabled",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "mobile_full_page": false,
+        "mobile_border_radius": 12,
+        "slides_mobile": 3,
+        "per_move_mobile": 3,
+        "mobile_spacing": 8,
+        "mobile_side_padding": 16,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": true,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "sides",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
     "horizontal_ticker_erW8ga": {
       "type": "horizontal-ticker",
       "blocks": {
@@ -729,251 +974,6 @@
         "custom_cards_colors_text": "#2E2A39"
       }
     },
-    "image_slider_76rVE6": {
-      "type": "image-slider",
-      "blocks": {
-        "video_slide_w63jMf": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/coore video ugc 1 .mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_KW8wcx": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/coore ugc 4.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_kR9UdC": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/coore ugc 9.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_n8jY6Y": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/videoframe_2022.png",
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_HxBFEt": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/ coore ugc 8.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_dDEECe": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/videoframe_4733.png",
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_98QDKL": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/coore ugc 2.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_AqykcN": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/coore ugc 5.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_VNHHQm": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/videoframe_17828.png",
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_PXMmx7": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/coore ugc 6.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_mwhCqD": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/222f0481-833b-4ee9-8649-51a960ee7174.png",
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_B3DCxA": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/ coore ugc 7.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        }
-      },
-      "block_order": [
-        "video_slide_w63jMf",
-        "video_slide_KW8wcx",
-        "video_slide_kR9UdC",
-        "image_slide_n8jY6Y",
-        "video_slide_HxBFEt",
-        "image_slide_dDEECe",
-        "video_slide_98QDKL",
-        "video_slide_AqykcN",
-        "image_slide_VNHHQm",
-        "video_slide_PXMmx7",
-        "image_slide_mwhCqD",
-        "video_slide_B3DCxA"
-      ],
-      "name": "Image/Video Slider",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "",
-        "title_highlight_color": "#1b2457",
-        "heading_size": "h2",
-        "color_scheme": "background-1",
-        "type": "slide",
-        "drag": "enabled",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "center_mode": false,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": false,
-        "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "desktop_border_radius": 0,
-        "slides_desktop": 3,
-        "per_move_desktop": 1,
-        "desktop_spacing": 28,
-        "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "mobile_full_page": false,
-        "mobile_border_radius": 12,
-        "slides_mobile": 3,
-        "per_move_mobile": 3,
-        "mobile_spacing": 8,
-        "mobile_side_padding": 16,
-        "mobile_padding_calc": true,
-        "mobile_adaptive_height": true,
-        "mobile_dots_position": "hidden",
-        "mobile_arrows_position": "sides",
-        "padding_top": 0,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#121212"
-      }
-    },
     "image_banner_w3UC9T": {
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
@@ -1035,6 +1035,7 @@
   "order": [
     "main",
     "related-products",
+    "image_slider_76rVE6",
     "horizontal_ticker_erW8ga",
     "rich_text_wDtaCB",
     "image_with_text_eXTY9i",
@@ -1044,7 +1045,6 @@
     "image_banner_KbJ4jh",
     "image_banner_ygTEUQ",
     "trustpilot_reviews_pYGK4T",
-    "image_slider_76rVE6",
     "image_banner_w3UC9T",
     "1766587608f080eadd",
     "custom_liquid_xnEdFc"
