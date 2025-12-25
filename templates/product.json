@@ -426,11 +426,19 @@
             "desc_color_scheme": "background-2"
           }
         },
-        "image_slide_n8jY6Y": {
-          "type": "image_slide",
+        "video_slide_k3WqCa": {
+          "type": "video_slide",
           "settings": {
-            "image": "shopify://shop_images/videoframe_2022.png",
-            "link": "",
+            "video": "shopify://files/videos/From KlickPin CF Nello super calm the cortisol drink in 2025 _ Healthy skin Healthy drinks Cortisol.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -449,16 +457,6 @@
             "sound_btn_color_scheme": "inverse",
             "display_timeline": false,
             "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_dDEECe": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/videoframe_4733.png",
-            "link": "",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -500,11 +498,55 @@
             "desc_color_scheme": "background-2"
           }
         },
-        "image_slide_VNHHQm": {
-          "type": "image_slide",
+        "video_slide_Kijhnd": {
+          "type": "video_slide",
           "settings": {
-            "image": "shopify://shop_images/videoframe_17828.png",
-            "link": "",
+            "video": "shopify://files/videos/From KlickPin CF Georgia Weibel _ Womens Wellness on Instagram Comment CYCLE below and I’ll DM you the link to my platform! ✨ I used to think I was doing everything right… b… [Video] [Video] in 2025 _ Womens wellness Fitness advice .mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_Uw8XPF": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/From KlickPin CF Georgia Weibel _ Womens Wellness on Instagram Comment CYCLE below and I’ll send you a special discount to my platform! ✨ I used to think I was doing every… [Vídeo] [Vídeo] em 2025.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_RkUNMf": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/From KlickPin CF Heather King on Instagram Comment ❤️ for more info on my cortisol drink and the code for 20% off today and tomorrow only!! ✨Think of cortisol as the body’s n… [Video] [Video] _ Cortisol High cortisol Immune system.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -523,16 +565,6 @@
             "sound_btn_color_scheme": "inverse",
             "display_timeline": false,
             "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_mwhCqD": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/222f0481-833b-4ee9-8649-51a960ee7174.png",
-            "link": "",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -561,14 +593,14 @@
         "video_slide_w63jMf",
         "video_slide_KW8wcx",
         "video_slide_kR9UdC",
-        "image_slide_n8jY6Y",
+        "video_slide_k3WqCa",
         "video_slide_HxBFEt",
-        "image_slide_dDEECe",
         "video_slide_98QDKL",
         "video_slide_AqykcN",
-        "image_slide_VNHHQm",
+        "video_slide_Kijhnd",
+        "video_slide_Uw8XPF",
+        "video_slide_RkUNMf",
         "video_slide_PXMmx7",
-        "image_slide_mwhCqD",
         "video_slide_B3DCxA"
       ],
       "name": "Image/Video Slider",
@@ -599,8 +631,8 @@
         "desktop_arrows_position": "sides",
         "mobile_full_page": false,
         "mobile_border_radius": 12,
-        "slides_mobile": 3,
-        "per_move_mobile": 3,
+        "slides_mobile": 4,
+        "per_move_mobile": 1,
         "mobile_spacing": 8,
         "mobile_side_padding": 16,
         "mobile_padding_calc": true,
