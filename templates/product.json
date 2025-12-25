@@ -629,6 +629,106 @@
         "show_text_below": true
       }
     },
+    "trustpilot_reviews_pYGK4T": {
+      "type": "trustpilot-reviews",
+      "blocks": {
+        "column_eLMbzW": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#fff",
+            "stars_rating": 5,
+            "title": "Highly Recommend for Sleep",
+            "text": "<p>My wife and son both struggle with getting and staying asleep, probably because of anxiety. I had a friend recommend this drink mix and they have been taking it every night before bed. There has been a dramatic increase in the quality of their sleep. My wife has reported deeper sleep then she has had in a long time and my son is finally falling asleep instead of playing in his bed for hours. Highly recommend giving this a try if you struggle to relax.</p>",
+            "author": "<strong>Andrew H.</strong>"
+          }
+        },
+        "column_TfyMt8": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#fff",
+            "stars_rating": 5,
+            "title": "Perfect Way To Unwind",
+            "text": "<p>Before CooreCalm I couldn't really do caffeine before because it made me too jittery and anxious which sucks because I love coffee, but now I can have caffeine and coorecalm and have no jitters !! I’ve been trying to take ashwagandha, L-Theanine, magnesium, and vitamin D regularly but to have it all in one is amazing! It tastes good too !!</p>",
+            "author": "<strong>Charlotte E.</strong>"
+          }
+        },
+        "column_dcMCwq": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#fff",
+            "stars_rating": 5,
+            "title": "Effective",
+            "text": "<p>I was looking for something to tame my agitation and snappiness towards the end of the day. We have three small kids and I often feel stressed especially during that “witching hour” starting around 4-5pm. Making one drink mixture of this made me feel calm and mellow so quickly it led me to leave this review! I have now tried this on several occasions and am a true believer in this product ! I only need one packet. It effectively helps me mellow out and remain peaceful during sibling quarrels/temper tantrums etc that otherwise would cause distress.</p>",
+            "author": "<strong>Sarah B.</strong>"
+          }
+        }
+      },
+      "block_order": [
+        "column_eLMbzW",
+        "column_TfyMt8",
+        "column_dcMCwq"
+      ],
+      "name": "Trustpilot reviews",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "background-1",
+        "desktop_content_position": "above",
+        "desktop_content_alignment": "center",
+        "title": "CooreCalm reviews",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "subtitle": "Excellent [rating] <strong>/ 5</strong> [rating_stars]",
+        "subheading_rating_text": "<strong>4.7</strong>",
+        "subheading_mobile_text_size": 18,
+        "subheading_desktop_text_size": 20,
+        "subheading_font": "body",
+        "star_color": "#00b67a",
+        "bg_star_color": "#c8c8c8",
+        "star_symbol_color": "#fff",
+        "stars_rating": 5,
+        "text": "",
+        "cards_border_radius": 16,
+        "card_alignment": "center",
+        "show_stars": true,
+        "cards_color_scheme": "accent-1",
+        "type": "slide",
+        "autoplay": true,
+        "autoplay_speed": 3,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": true,
+        "columns_desktop": 2,
+        "slider_desktop": true,
+        "per_move_desktop": 1,
+        "desktop_spacing": 8,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": true,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": true,
+        "enable_mobile_preview": true,
+        "mobile_adaptive_height": true,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "sides",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2E2A39"
+      }
+    },
     "image_slider_76rVE6": {
       "type": "image-slider",
       "blocks": {
@@ -835,7 +935,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "<strong>Reviews from Coore Customers</strong>",
+        "title": "",
         "title_highlight_color": "#1b2457",
         "heading_size": "h2",
         "color_scheme": "background-1",
@@ -867,7 +967,7 @@
         "mobile_adaptive_height": true,
         "mobile_dots_position": "hidden",
         "mobile_arrows_position": "sides",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36,
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
@@ -890,6 +990,7 @@
       "block_order": [
         "judge_me_reviews_review_widget_8KMwrM"
       ],
+      "name": "AVIS",
       "settings": {
         "display_id": false,
         "include_margins": true
@@ -942,6 +1043,7 @@
     "image_banner_JTKL7L",
     "image_banner_KbJ4jh",
     "image_banner_ygTEUQ",
+    "trustpilot_reviews_pYGK4T",
     "image_slider_76rVE6",
     "1766587608f080eadd",
     "image_banner_w3UC9T",
