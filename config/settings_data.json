@@ -353,7 +353,7 @@
               "quantity_input_padding": 0.7,
               "quantity_separators_opacity": 20,
               "quantity_padding": 0.4,
-              "quantity_btns_color_scheme": "background-2",
+              "quantity_btns_color_scheme": "accent-2",
               "quantity_round_btns": true,
               "quantity_outline_btns": false,
               "quantity_btns_icon_size": 70,
