@@ -749,7 +749,7 @@
         "text_tyqLxF": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>High cortisol doesn’t just affect your mood — it can disrupt sleep, focus, digestion, and how your body stores fat.</strong></em><em><br/><br/></em>✔️ Helps manage occasional stress & feelings of overwhelm*<br/>✔️ Supports relaxation and restful sleep*<br/>✔️ Helps maintain healthy cortisol levels*<br/>✔️ Supports mood, focus & mental clarity*<br/>✔️ Made with clinically-studied ingredients*</p><p></p>",
+            "text": "<p><strong>High cortisol doesn’t just affect your mood, it can disrupt sleep, focus, digestion, and how your body stores fat.</strong></p><p></p>",
             "text_style": "body"
           }
         }
@@ -761,7 +761,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/mix_gif_1.webp",
+        "image": "shopify://shop_images/57ad7246-0c02-469e-b4a2-75b0321becd0.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
