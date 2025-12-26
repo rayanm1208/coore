@@ -891,8 +891,8 @@
           "settings": {
             "image": "shopify://shop_images/519aa403-5e06-48a5-89d0-72958b5a6734.png",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Cortisol Cycle",
+            "text": "<p>When stress builds up over time, your body feels it.<br/><br/>With consistent use, <strong>CooreCalm</strong> supports your body’s natural stress response, helping you feel calmer, clearer, and more balanced day after day.*</p>",
             "link_label": "",
             "link": ""
           }
@@ -902,8 +902,8 @@
           "settings": {
             "image": "shopify://shop_images/32a9391b-c857-4ac4-b329-1ac3a2277506.png",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Sleep That Truly Restores",
+            "text": "<p>Restless nights and racing thoughts don’t have to be normal.<br/><br/><strong>CooreCalm</strong> supports relaxation and nighttime calm, helping you unwind naturally and wake up feeling more refreshed.*</p>",
             "link_label": "",
             "link": ""
           }
@@ -911,9 +911,10 @@
         "column_6iyg7G": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/47c509e4-ed05-44a6-9f96-45d2c38c6baa.png",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Calm That Carries Through Your Day",
+            "text": "<p>Stress doesn’t stop at bedtime.<br/><br/><strong>CooreCalm</strong> is designed to support steady mood and mental balance, so you can feel more grounded — even on demanding days.*</p>",
             "link_label": "",
             "link": ""
           }
@@ -928,8 +929,8 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "<strong>How CooreCalm </strong>Actually Works",
-        "title_highlight_color": "#ffffff",
+        "title": "<strong>How CooreCalm </strong><em>Actually Works</em>",
+        "title_highlight_color": "#1b2457",
         "heading_size": "h1",
         "button_label": "",
         "button_link": "",
@@ -979,10 +980,10 @@
         "mobile_arrows_position": "under",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#1b2457",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#ffffff",
-        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_text": "#3ab4d9",
+        "custom_colors_solid_button_background": "#3ab4d9",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
         "custom_cards_colors_background": "#ffffff",
