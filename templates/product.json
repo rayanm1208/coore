@@ -40,7 +40,7 @@
         "custom_liquid_C33T8p": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<section id=\"product-info\" style=\"display: flex; justify-content: space-between; gap: 8px;\">\n\n  <!-- Card 1 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconvie.png?v=1765549829\"\n         alt=\"Month Calm Icon\"\n         style=\"width: 36px; height: 36px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      1 Month Calm\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      1 month preserved\n    </p>\n  </div>\n\n  <!-- Card 2 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconsachet.png?v=1765549830\"\n         alt=\"Format Icon\"\n         style=\"width: 32px; height: 32px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      Format\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      20 sachets,1 per day\n    </p>\n  </div>\n\n  <!-- Card 3 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconhf.png?v=1765549831\"\n         alt=\"For Everyone Icon\"\n         style=\"width: 28px; height: 28px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      For Everyone\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      Women & Men\n    </p>\n  </div>\n\n</section>"
+            "custom_liquid": "<section id=\"product-info\" style=\"display: flex; justify-content: space-between; gap: 8px;\">\n\n  <!-- Card 1 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconvie.png?v=1765549829\"\n         alt=\"Month Calm Icon\"\n         style=\"width: 36px; height: 36px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      1 CooreCalm\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      1 month preserved\n    </p>\n  </div>\n\n  <!-- Card 2 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconsachet.png?v=1765549830\"\n         alt=\"Format Icon\"\n         style=\"width: 32px; height: 32px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      Format\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      20 sachets,1 per day\n    </p>\n  </div>\n\n  <!-- Card 3 -->\n  <div style=\"text-align: center; padding: 8px; background-color: #DFF9FF; border: 1px solid #d1e8f7; border-radius: 10px; width: 32%; display: flex; flex-direction: column; align-items: center; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/1010/8774/0229/files/iconhf.png?v=1765549831\"\n         alt=\"For Everyone Icon\"\n         style=\"width: 28px; height: 28px; margin-bottom: 4px;\">\n    <p style=\"font-size: 12px; font-weight: bold; color: #011339; margin: 0; line-height: 1.25;\">\n      For Everyone\n    </p>\n    <p style=\"font-size: 11px; color: #011339; margin: 2px 0 0; line-height: 1.3;\">\n      Women & Men\n    </p>\n  </div>\n\n</section>"
           }
         },
         "custom_liquid_xJpA6E": {
@@ -906,6 +906,29 @@
         "show_text_below": true
       }
     },
+    "image_banner_LxyxKt": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/f67b9881-6da2-4c88-a56e-6ba52877c51e.png",
+        "image_1_visibility": "mobile-hidden",
+        "image_2": "shopify://shop_images/f67b9881-6da2-4c88-a56e-6ba52877c51e.png",
+        "image_2_visibility": "desktop-hidden",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "trustpilot_reviews_pYGK4T": {
       "type": "trustpilot-reviews",
       "blocks": {
@@ -1111,15 +1134,15 @@
         "custom_colors_text": "#121212"
       }
     },
-    "image_banner_LxyxKt": {
+    "image_banner_w3UC9T": {
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/f67b9881-6da2-4c88-a56e-6ba52877c51e.png",
+        "image": "shopify://shop_images/coore_section_ecologie.svg",
         "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/f67b9881-6da2-4c88-a56e-6ba52877c51e.png",
+        "image_2": "shopify://shop_images/coore_section_ecolo_mobile.svg",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -1134,27 +1157,114 @@
         "show_text_below": true
       }
     },
-    "image_banner_w3UC9T": {
-      "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
+    "slideshow_68ALg3": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_mkqMTY": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/coore_section_ecologie.svg",
+            "mobile_image": "shopify://shop_images/coore_ecolo_mobile_section.svg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#FFFFFF",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2E2A39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        },
+        "slide_yLnAdn": {
+          "type": "slide",
+          "settings": {
+            "image_overlay_opacity": 0,
+            "heading": "Image slide",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#FFFFFF",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2E2A39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        },
+        "slide_YBW4xD": {
+          "type": "slide",
+          "settings": {
+            "image_overlay_opacity": 0,
+            "heading": "Image slide",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#FFFFFF",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2E2A39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        }
+      },
+      "block_order": [
+        "slide_mkqMTY",
+        "slide_yLnAdn",
+        "slide_YBW4xD"
+      ],
+      "disabled": true,
+      "name": "t:sections.slideshow.presets.name",
       "settings": {
-        "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/coore_section_ecologie.svg",
-        "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/coore_section_ecologie.svg",
-        "image_2_visibility": "desktop-hidden",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "url": "",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "transparent_container_color": "white",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "desktop_pagination_position": "over",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "mobile_pagination_position": "over",
+        "accessibility_info": ""
       }
     },
     "1766587608f080eadd": {
@@ -1208,6 +1318,7 @@
     "trustpilot_reviews_pYGK4T",
     "image_slider_yitCT6",
     "image_banner_w3UC9T",
+    "slideshow_68ALg3",
     "1766587608f080eadd",
     "custom_liquid_xnEdFc"
   ]
