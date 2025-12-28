@@ -946,7 +946,7 @@
         "atc_skip_cart": false,
         "color_scheme": "custom",
         "cards_color_scheme": "custom",
-        "cards_corner_radius": 0,
+        "cards_corner_radius": 22,
         "stretch_cards": true,
         "stretched_cards_content_alignment": "center",
         "image_width": "full",
