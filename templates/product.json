@@ -1001,6 +1001,7 @@
     },
     "image_banner_LxyxKt": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
