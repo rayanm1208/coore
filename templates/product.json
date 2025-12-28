@@ -938,7 +938,7 @@
         "visibility": "always-display",
         "title": "<strong>How CooreCalm </strong><em>Actually Works</em>",
         "title_highlight_color": "#1b2457",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "button_label": "",
         "button_link": "",
         "atc_button_label": "",
