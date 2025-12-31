@@ -179,6 +179,10 @@
           "type": "shopify://apps/appstle-subscription/blocks/appstle-subscription-product-page-widget/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
           "settings": {}
         },
+        "appstle_bundles_appstle_classic_bundle_RnYjxR": {
+          "type": "shopify://apps/appstle-bundles/blocks/appstle-classic-bundle/8909921b-2d24-4d68-9b12-9d045d3dcb0a",
+          "settings": {}
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -296,10 +300,6 @@
             "mobile_show_price_in_button": false,
             "mobile_transparent_bg": false
           }
-        },
-        "appstle_bundles_appstle_classic_bundle_WJ8fLF": {
-          "type": "shopify://apps/appstle-bundles/blocks/appstle-classic-bundle/8909921b-2d24-4d68-9b12-9d045d3dcb0a",
-          "settings": {}
         }
       },
       "block_order": [
@@ -312,13 +312,13 @@
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "appstle_subscription_appstle_subscription_product_page_widget_GEFWeT",
+        "appstle_bundles_appstle_classic_bundle_RnYjxR",
         "buy_buttons",
         "payment_badges_k7HXGz",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "description",
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
-        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
-        "appstle_bundles_appstle_classic_bundle_WJ8fLF"
+        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5"
       ],
       "custom_css": [],
       "settings": {
