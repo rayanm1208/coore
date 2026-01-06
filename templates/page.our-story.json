@@ -40,7 +40,7 @@
         "heading_zftetq",
         "text_BVPkCB"
       ],
-      "name": "t:sections.image-with-text.presets.name",
+      "name": "How It All started",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -96,7 +96,231 @@
         "heading_eyLwqM",
         "text_g3Cztb"
       ],
-      "name": "t:sections.image-with-text.presets.name",
+      "name": "Calm, Reimagined ",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "image_with_text_YCCbA4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_y9dahT": {
+          "type": "heading",
+          "settings": {
+            "title": "<strong>Science-Backed Wellness</strong>",
+            "title_highlight_color": "#3ab4d9",
+            "heading_size": "h1"
+          }
+        },
+        "text_anBAWz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At <strong>Coore</strong>, we believe wellness should be both <strong>effective and transparent</strong>.</p><p>That’s why our formulas are built around well-studied ingredients such as magnesium glycinate, L-theanine, vitamin D3 and KSM-66® ashwagandha — ingredients known for supporting calm, focus, sleep quality and overall wellbeing*.</p><p>We don’t believe in masking symptoms.<br/><br/>We believe in supporting balance — naturally, consistently and responsibly.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_y9dahT",
+        "text_anBAWz"
+      ],
+      "name": "Science-Backed",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "image_with_text_3mBxMq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_def78d": {
+          "type": "heading",
+          "settings": {
+            "title": "<strong>Designed for Everyday Life</strong>",
+            "title_highlight_color": "#3ab4d9",
+            "heading_size": "h1"
+          }
+        },
+        "text_W3DHmm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Calm isn’t just for evenings.<br/><br/>It’s for busy mornings, long days, social moments and quiet nights.</p><p><strong>CooreCalm</strong> is designed to be enjoyed whenever you need it — after caffeine, during stressful moments, when your mind won’t switch off, or simply as part of a daily calm ritual.</p><p>Wellness shouldn’t feel clinical.<br/><br/>It should feel easy, enjoyable and human.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_def78d",
+        "text_W3DHmm"
+      ],
+      "name": "Designed for Everyday",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "image_with_text_RHBwwz": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8xWBGh": {
+          "type": "heading",
+          "settings": {
+            "title": "<strong>You Can Always Count On Us</strong>",
+            "title_highlight_color": "#3ab4d9",
+            "heading_size": "h1"
+          }
+        },
+        "text_7YmcC4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quality isn’t optional — it’s foundational.</p><p>That’s why <strong>Coore</strong> products are:</p><ul><li><strong>GMP certified</strong></li><li><strong>Third-party tested</strong></li><li><strong>Made with carefully sourced ingredients</strong></li><li><strong>Free from artificial sweeteners</strong></li><li><strong>Non-GMO & vegan-friendly</strong><br/></li></ul><p>From formulation to production, every step is held to high standards — because trust matters</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8xWBGh",
+        "text_7YmcC4"
+      ],
+      "name": "You Can Always",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "image_with_text_rM7dL8": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UprWf9": {
+          "type": "heading",
+          "settings": {
+            "title": "<strong>Our Mission</strong>",
+            "title_highlight_color": "#3ab4d9",
+            "heading_size": "h1"
+          }
+        },
+        "text_zEgjT3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our mission is simple :<br/><br/>to help people navigate modern life with more calm, clarity and balance.</p><p>Not by escaping stress — but by meeting it with better tools.</p><p>Welcome to <strong>Coore</strong>.<br/><br/>Calm, made for real life.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UprWf9",
+        "text_zEgjT3"
+      ],
+      "name": "Our Mission",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -133,6 +357,10 @@
   "order": [
     "main",
     "image_with_text_MaALFn",
-    "image_with_text_tAXiQn"
+    "image_with_text_tAXiQn",
+    "image_with_text_YCCbA4",
+    "image_with_text_3mBxMq",
+    "image_with_text_RHBwwz",
+    "image_with_text_rM7dL8"
   ]
 }
