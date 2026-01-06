@@ -274,11 +274,12 @@
             "type": "image",
             "settings": {
               "position": "body",
+              "image": "shopify://shop_images/coore_s.png",
               "width": 100,
               "alignment": "center",
               "border_radius": 0,
-              "margin_top": 15,
-              "margin_bottom": 15
+              "margin_top": 0,
+              "margin_bottom": 0
             }
           },
           "6269cf6e-8e24-4068-8e2a-35bb4addad4e": {
@@ -288,7 +289,7 @@
               "timer_duration": 300,
               "font_size": "1.2",
               "color_scheme": "accent-2",
-              "margin_top": 0,
+              "margin_top": 6,
               "margin_bottom": 0
             }
           },
@@ -342,9 +343,9 @@
           "097b7b4f-c0b8-4073-a06b-e6d49a5aad20": {
             "type": "cart_items",
             "settings": {
-              "image_size": "20",
+              "image_size": "25",
               "image_link": false,
-              "title_size": "1.5",
+              "title_size": "1.3",
               "title_link": false,
               "displayed_variants": "compact",
               "prices_position": "right",
@@ -355,11 +356,11 @@
               "enable_savings": true,
               "savings_text": "<strong>(You save [amount])</strong>",
               "savings_color": "text",
-              "quantity_font_size": 14,
+              "quantity_font_size": 12,
               "quantity_container_padding": 0,
               "quantity_corner_radius": 6,
               "quantity_border_width": 1,
-              "quantity_border_color": "#787878",
+              "quantity_border_color": "#3ab4d9",
               "quantity_container_color_scheme": "background-1",
               "quantity_input_padding": 0.7,
               "quantity_separators_opacity": 20,
@@ -439,7 +440,7 @@
               "btn_position": "right",
               "toggle_element": "button",
               "add_btn_label": "<strong>83% of customers also add this to their order</strong>",
-              "hide_in_cart_items": false,
+              "hide_in_cart_items": true,
               "stacking": "row",
               "accent_color": "accent-1",
               "color_scheme": "background-1",
@@ -502,8 +503,8 @@
           "product_upsells_MfMY9m"
         ],
         "settings": {
-          "test_mode": false,
-          "heading_text": "Cart",
+          "test_mode": true,
+          "heading_text": "",
           "heading_alignment": "flex-start",
           "desktop_width": "normal",
           "mobile_width": "full",
