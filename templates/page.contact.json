@@ -23,15 +23,15 @@
         "template--18407212810569__60910267-55e8-4e0d-a9f9-79b26b3533dc-16795881913b1fb5f3-0": {
           "type": "heading",
           "settings": {
-            "title": "Talk about your brand",
-            "title_highlight_color": "#6d388b",
+            "title": "<strong>Contact us</strong>",
+            "title_highlight_color": "#1b2457",
             "heading_size": "h1"
           }
         },
         "template--18407212810569__60910267-55e8-4e0d-a9f9-79b26b3533dc-16795881913b1fb5f3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>At [Your company], your satisfaction is our top priority. We encourage you to reach out with any questions, concerns, or feedback, as our dedicated team is always eager to assist you. Whether you need help with product inquiries or simply want to share your experience with us, we're just a message away. </p>"
+            "text": "<p>Have a question about your order, our products, or need support ?<br/><br/>Fill out the form below and our team will get back to you as soon as possible.</p>"
           }
         }
       },
@@ -39,7 +39,6 @@
         "template--18407212810569__60910267-55e8-4e0d-a9f9-79b26b3533dc-16795881913b1fb5f3-0",
         "template--18407212810569__60910267-55e8-4e0d-a9f9-79b26b3533dc-16795881913b1fb5f3-1"
       ],
-      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -108,30 +107,30 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Get in touch",
-        "title_highlight_color": "#6D388B",
+        "title": "",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "button_full_width": true,
         "color_scheme": "background-1",
         "success_icon": "check_circle",
         "success_icon_filled": false,
-        "success_text_color": "#28C100",
-        "success_bg_color": "#F2FFED",
+        "success_text_color": "#28c100",
+        "success_bg_color": "#f2ffed",
         "success_border_radius": 8,
         "success_border_width": 1,
-        "success_border_color": "#28C100",
+        "success_border_color": "#28c100",
         "errors_icon": "error",
         "errors_icon_filled": false,
-        "errors_text_color": "#FF0000",
+        "errors_text_color": "#ff0000",
         "errors_bg_color": "#fff5f5",
         "errors_border_radius": 8,
         "errors_border_width": 1,
-        "errors_border_color": "#FF0000",
-        "padding_top": 36,
+        "errors_border_color": "#ff0000",
+        "padding_top": 0,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
       }
