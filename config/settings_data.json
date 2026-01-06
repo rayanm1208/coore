@@ -270,15 +270,26 @@
       "cart-drawer": {
         "type": "cart-drawer",
         "blocks": {
+          "image_R8QYra": {
+            "type": "image",
+            "settings": {
+              "position": "body",
+              "width": 100,
+              "alignment": "center",
+              "border_radius": 0,
+              "margin_top": 15,
+              "margin_bottom": 15
+            }
+          },
           "6269cf6e-8e24-4068-8e2a-35bb4addad4e": {
             "type": "countdown_timer",
             "settings": {
-              "timer_text": "<strong>Cart reserved for [timer]</strong>",
+              "timer_text": "<strong>Due to high demand, your cart is reserved for [timer]</strong>",
               "timer_duration": 300,
-              "font_size": "1.4",
-              "color_scheme": "inverse",
+              "font_size": "1.2",
+              "color_scheme": "accent-2",
               "margin_top": 0,
-              "margin_bottom": 15
+              "margin_bottom": 0
             }
           },
           "926ea95f-fd8a-43e7-b215-de4f6cbc19f9": {
@@ -427,8 +438,8 @@
               "style": "toggle_switch",
               "btn_position": "right",
               "toggle_element": "button",
-              "add_btn_label": "<strong>Add</strong>",
-              "hide_in_cart_items": true,
+              "add_btn_label": "<strong>83% of customers also add this to their order</strong>",
+              "hide_in_cart_items": false,
               "stacking": "row",
               "accent_color": "accent-1",
               "color_scheme": "background-1",
@@ -479,6 +490,7 @@
           }
         },
         "block_order": [
+          "image_R8QYra",
           "6269cf6e-8e24-4068-8e2a-35bb4addad4e",
           "926ea95f-fd8a-43e7-b215-de4f6cbc19f9",
           "058d6d0a-ba0d-48cb-9432-de85da1e5aef",
@@ -491,14 +503,14 @@
         ],
         "settings": {
           "test_mode": false,
-          "heading_text": "Cart • [count] items",
+          "heading_text": "Cart",
           "heading_alignment": "flex-start",
           "desktop_width": "normal",
           "mobile_width": "full",
           "enable_header_bg": false,
-          "header_bg_color": "#f3f3f3",
-          "enable_body_bg": false,
-          "body_bg_color": "#f3f3f3",
+          "header_bg_color": "#ffffff",
+          "enable_body_bg": true,
+          "body_bg_color": "#ffffff",
           "enable_footer_bg": false,
           "footer_bg_color": "#f3f3f3"
         }

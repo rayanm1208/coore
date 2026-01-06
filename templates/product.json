@@ -1014,9 +1014,9 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/Make_a_Difference_d2910dc3-15e1-4725-8fa6-4332c8f53da9.svg",
+        "image": "shopify://shop_images/coore_trust_section.png",
         "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/Make_a_Difference_d2910dc3-15e1-4725-8fa6-4332c8f53da9.svg",
+        "image_2": "shopify://shop_images/coore_trust_section.png",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
