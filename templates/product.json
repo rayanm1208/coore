@@ -196,7 +196,7 @@
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
             "secondary_btn_custom_color": "#dd1d1d",
-            "margin_top": 15,
+            "margin_top": 0,
             "margin_bottom": 0
           }
         },
