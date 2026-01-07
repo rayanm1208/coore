@@ -70,6 +70,7 @@
         "template--18472096104777__fd57cce8-d801-473c-9554-025221fb7723-1679865021003cfb75-1",
         "template--18472096104777__fd57cce8-d801-473c-9554-025221fb7723-1679865021003cfb75-2"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
