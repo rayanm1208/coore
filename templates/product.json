@@ -40,13 +40,13 @@
         "variant_picker_Er78y4": {
           "type": "variant_picker",
           "settings": {
-            "picker_types": "pills, pills, pills",
-            "custom_labels": "",
+            "picker_types": "swatches,",
+            "custom_labels": "savor",
             "skip_unavailable": false,
             "swatches_size": "medium",
-            "swatches_custom_colors": "disabled",
-            "swatches_custom_colors_list": "#000000, #FFFFFF",
-            "full_width_dropdowns": false,
+            "swatches_custom_colors": "predefined",
+            "swatches_custom_colors_list": "orange,",
+            "full_width_dropdowns": true,
             "breaks_style": "normal",
             "breaks_headline": "BUNDLE & SAVE",
             "breaks_color_scheme": "accent-1",
@@ -177,6 +177,7 @@
         },
         "moon_bundles_upsell_free_gifts_app_block_pTz6eH": {
           "type": "shopify://apps/moon-bundles-upsell-free-gifts/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+          "disabled": true,
           "settings": {
             "moonbundle_selected_product": "{{product}}"
           }
