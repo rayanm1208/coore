@@ -621,11 +621,6 @@
         "type": "shopify://apps/moon-bundles-upsell-free-gifts/blocks/cart-drawer/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
         "disabled": false,
         "settings": {}
-      },
-      "5918707185744429496": {
-        "type": "shopify://apps/optis-product-options/blocks/bss-po-script/2c446099-c349-4e73-80cd-49c9770b7807",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
